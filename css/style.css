@@ -264,6 +264,10 @@
     align-items: center;
     justify-content: center;
 }
+#blog img {
+    height: 350px !important;
+    object-fit: cover;
+}
 
 .service-item .service-icon img {
     max-width: 60px;
